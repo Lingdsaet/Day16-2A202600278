@@ -1,7 +1,7 @@
 # Day 16 Submission — AI Product Strategy
 
 ## Members
-- Claude (AI Assistant) — Product Strategist & Market Analyst
+- Phan Hoài Linh -2A202600278
 
 ---
 
@@ -118,8 +118,3 @@ If we deploy **50 lần trong vertical F&B Việt Nam**, the following improve:
 **Mắt xích yếu nhất hiện tại: Market Size**
 
 Các con số TAM/SAM/SOM đang dựa nhiều vào assumption về willingness-to-pay — đây là assumption chưa được validate. Thị trường F&B SME Việt Nam có lịch sử dùng free tools và kháng cự SaaS subscription. Cần ít nhất 10–15 cuộc customer interview với chủ chuỗi hoặc marketing manager để có pricing signal thật.
-
-**Open questions cần khám phá ở Day 17:**
-1. MVP scope tối thiểu để pilot với 3–5 chuỗi F&B trong 4 tuần đầu là gì? Cần build những gì thực sự, và có thể "fake" phần nào bằng human-in-the-loop?
-2. Assumption nào về Zalo OA API cần validate trước tiên — và nếu Zalo không cho phép automation ở mức cần thiết, phương án dự phòng là gì (Facebook Messenger only)?
-3. Ai trong team F&B là champion nội bộ tốt nhất để bán sản phẩm — và channel nào (community, agency partner, direct sales) cho conversion rate cao nhất với chi phí thấp nhất?
